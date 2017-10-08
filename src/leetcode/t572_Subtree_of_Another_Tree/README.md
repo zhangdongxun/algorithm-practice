@@ -56,7 +56,7 @@ Given two non-empty binary trees s and t, check whether tree t has exactly the s
        |                             |
        |序列化                        |序列化
       \|/                           \|/
-     字符串str1                     字符串str1
+     字符串str1                     字符串str2
             \                       /
              \                     /
              _\|                 |/_
